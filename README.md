@@ -12,11 +12,6 @@ For those who haven't memorized secrets, trying to find secrets takes forever, e
 ### Is this bannable?
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is by all means completely safe to use.
 
-
-### Discord:
-[![Discord](https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/7B5RbsArYK)
-
-
 ### Hotkeys:
 (Configurable in Controls Menu)
  - P - Opens Secret Waypoints configuration GUI
