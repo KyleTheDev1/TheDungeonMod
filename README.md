@@ -1,5 +1,8 @@
 # The Dungeon Mod
 
+### How to download:
+Press the green "Code" button and hit "Download zip". This will give you the mod alongside a readme. Drag the mod into your mod folder and launch Forge 1.8.9: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9
+
 ### What it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
 
